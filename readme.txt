@@ -1,2 +1,2 @@
 Sami Bardisi
-Learning git
+Learning git and GitHub
